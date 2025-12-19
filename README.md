@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <strong>============== Roblox Dev Kit ==============</strong>
+  <strong>/ Roblox Dev Kit \</strong>
 </p>
