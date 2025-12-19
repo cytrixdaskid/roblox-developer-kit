@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  # Roblox Dev Kit
+  <strong>Roblox Dev Kit</strong>
 </p>
