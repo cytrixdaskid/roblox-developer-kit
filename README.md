@@ -4,4 +4,5 @@
 
 <p align="center">
   <strong>/ Roblox Dev Kit \</strong>
+  <strong>================================</strong>
 </p>
