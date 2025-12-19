@@ -1,1 +1,3 @@
-![roblox-animation](https://github.com/user-attachments/assets/0d717ba4-570b-42c1-8887-3b4879e180aa)
+<p align="center">
+  <img src="https://media1.tenor.com/m/08Q39dVyc30AAAAd/roblox-animation.gif" width="600">
+</p>
