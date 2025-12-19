@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>/ Roblox Dev Kit \</strong>
+  <h1>/ Roblox Dev Kit \</h1>
   <strong>================================</strong>
 </p>
