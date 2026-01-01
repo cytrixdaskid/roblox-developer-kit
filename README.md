@@ -44,3 +44,8 @@ The "Roblox Developer Kit" is a package filed folder with a variety of user gene
         <img src="https://cdn.discordapp.com/attachments/1425684761883443312/1456265323530420336/Screenshot_2026-01-01_050539.png?ex=6957bc45&is=69566ac5&hm=8b2d00ce02df9598de42927a71d8117e220dda3337b257d6e048a0271b55b2e3&">
     </a>
 </p>
+
+# Statistics
+Current Scripts: 50
+Current Models = 15
+Current Tutorials = 5
