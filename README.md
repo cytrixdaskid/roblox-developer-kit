@@ -27,5 +27,5 @@ The "Roblox Developer Kit" is a package filed folder with 100+ user generated co
 
 ---------------------
 # Socials
-![Discord](https://img.shields.io/badge/Discord-Server-blue?logo=discord&logoColor=white)
+[![BTC](https://img.shields.io/badge/Bitcoin-Donate-yellow?style=for-the-badge&logo=bitcoin)](bitcoin:bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx) | [bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx](bitcoin:bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx) |
 
