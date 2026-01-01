@@ -3,7 +3,7 @@
 </p>
 
 # Roblox Developer Kit
-The "Roblox Developer Kit" is a package filed folder with 100+ user generated content. Things such as user generate models, scripts, tutorials, etc are all found inside this package. This pacakge/file is enforced to help beginning developers or strugging developers that are in need of assets for their game.
+The "Roblox Developer Kit" is a package filed folder with 100+ user generated content. Things such as user generated models, scripts, tutorials, etc are all found inside this package. This pacakge/file is enforced to help beginning developers or strugging developers that are in need of assets for their game.
 
 # Questions Asked
 **1. Is this safe to use?**
