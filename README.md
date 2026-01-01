@@ -2,12 +2,6 @@
   <img src="https://media1.tenor.com/m/08Q39dVyc30AAAAd/roblox-animation.gif" width="200">
 </p>
 
-<p align="center">
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
-	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
-</p>
-
 # Roblox Developer Kit
 The "Roblox Developer Kit" is a package filed folder with 100+ user generated content. Things such as user generate models, scripts, tutorials, etc are all found inside this package. This pacakge/file is enforced to help beginning developers or strugging developers that are in need of assets for their game.
 
