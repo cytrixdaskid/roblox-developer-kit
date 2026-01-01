@@ -28,8 +28,8 @@ The "Roblox Developer Kit" is a package filed folder with 100+ user generated co
 ---------------------
 # Socials
 <p align="left">
-    <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases">
-        <img src="https://cdn.discordapp.com/attachments/1425684761883443312/1456256313402200094/download_4.gif?ex=6957b3e1&is=69566261&hm=ac9b2299cd460a770ee25c4d46c682b4c5dff6eb4e6fcaa699154ef6dccd0e08&">
+    <a href="https://www.roblox.com/games/116651135467112/unnamed#!/store">
+        <img src="https://cdn.discordapp.com/attachments/1425684761883443312/1456268477407952978/Screenshot_2026-01-01_050539_4.png?ex=6957bf35&is=69566db5&hm=0184005ceda15c2a0eff4df525230844e914d674133cc573edf4286ae494bbf7&">
     </a>
     <br>
     </a>
