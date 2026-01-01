@@ -27,5 +27,5 @@ The "Roblox Developer Kit" is a package filed folder with 100+ user generated co
 
 ---------------------
 # Socials
-**$${\color{Blue}Discord: \https://discord.gg/iidk }$$
+**$${\color{Blue}Discord: \https://discord.gg/iidk}$$
 
