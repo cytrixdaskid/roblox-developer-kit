@@ -27,5 +27,5 @@ The "Roblox Developer Kit" is a package filed folder with 100+ user generated co
 
 ---------------------
 # Socials
-${\color{blue}Discord \space \space Server:}$ discord.gg/iidk
+<span style="color: #3B82F6; font-weight: bold;">Discord Server:</span> discord.gg/iidk
 
