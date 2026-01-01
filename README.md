@@ -25,5 +25,6 @@ The "Roblox Developer Kit" is a package filed folder with 100+ user generated co
 
 **2. We can't promise it is, but we have fully tried to be as user friendly as possible for anybody even if they just started using studio. If you do have issues and are confused about something, we do have a warm and kind discord community that can help you.**
 
+---------------------
 # Placeholder
 Placeholder
